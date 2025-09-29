@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @ZemarKhos
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning OSWE
+- Achivement Unlocked: OSWE
+- 🌱 I’m currently learning OSED
