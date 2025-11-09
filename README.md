@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Zemarkhos
+- 👋 Hi, I’m Zemarkhos
 - 👀 I’m interested in Cyber Security (since 2013)
 - RedTeam member @ Secure Future
