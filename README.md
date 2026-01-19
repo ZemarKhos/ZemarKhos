@@ -66,18 +66,40 @@ Holding the **OSWE (Offensive Security Web Expert)** and **TSE Certified Penetra
 
 <div style="border: 2px solid #DC143C; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <h4>🗡️ Offensive Tools</h4>
-  <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
       <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
       <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&color=000000" alt="Metasploit" />
-      <img src="https://img.shields.io/badge/Cobalt_Strike-DC143C?style=for-the-badge&logo=target&color=000000" alt="Cobalt Strike" />
+      <img src="https://img.shields.io/badge/Cobalt_Strike-DC143C?style=for-the-badge&logo=cobaltstrike&color=000000" alt="Cobalt Strike" />
+      <img src="https://img.shields.io/badge/Acunetix-6A1B9A?style=for-the-badge&logo=acunetix&color=000000" alt="Acunetix" />
+      <img src="https://img.shields.io/badge/Netsparker-FF6F00?style=for-the-badge&logo=invicti&color=000000" alt="Netsparker" />
+      <img src="https://img.shields.io/badge/Nuclei-7C3AED?style=for-the-badge&logo=nuclei&color=000000" alt="Nuclei" />
       <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&color=000000" alt="Nmap" />
       <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&color=000000" alt="Wireshark" />
-      <img src="https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logo=databricks&color=000000" alt="SQLMap" />
+      <img src="https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logo=postgresql&color=000000" alt="SQLMap" />
       <img src="https://img.shields.io/badge/BloodHound-DC143C?style=for-the-badge&logo=neo4j&color=000000" alt="BloodHound" />
-      <img src="https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=ghost&color=000000" alt="Ghidra" />
+      <img src="https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=redragon&color=000000" alt="Ghidra" />
       <img src="https://img.shields.io/badge/Impacket-000000?style=for-the-badge&logo=python&color=000000" alt="Impacket" />
+      <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&color=000000" alt="OWASP ZAP" />
+      <img src="https://img.shields.io/badge/Nikto-009688?style=for-the-badge&logo=alienware&color=000000" alt="Nikto" />
+      <img src="https://img.shields.io/badge/Ffuf-FF5722?style=for-the-badge&logo=zcool&color=000000" alt="Ffuf" />
+      <img src="https://img.shields.io/badge/Gobuster-00C853?style=for-the-badge&logo=go&color=000000" alt="Gobuster" />
+      <img src="https://img.shields.io/badge/Hashcat-EF5350?style=for-the-badge&logo=hashcat&color=000000" alt="Hashcat" />
+      <img src="https://img.shields.io/badge/John_The_Ripper-FFC107?style=for-the-badge&logo=foobar2000&color=000000" alt="John The Ripper" />
+      <img src="https://img.shields.io/badge/Hydra-26A69A?style=for-the-badge&logo=dragonframe&color=000000" alt="Hydra" />
   </div>
 
+  <br>
+
+  <h4>🔍 SAST & Code Analysis</h4>
+  <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+      <img src="https://img.shields.io/badge/Fortify_SCA-FF6D00?style=for-the-badge&logo=fortinet&color=000000" alt="Fortify SCA" />
+      <img src="https://img.shields.io/badge/Semgrep-4B32C3?style=for-the-badge&logo=codecrafters&color=000000" alt="Semgrep" />
+      <img src="https://img.shields.io/badge/Checkmarx-54B848?style=for-the-badge&logo=checkmarx&color=000000" alt="Checkmarx" />
+      <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqubeserver&color=000000" alt="SonarQube" />
+      <img src="https://img.shields.io/badge/CodeQL-1F6FEB?style=for-the-badge&logo=graphql&color=000000" alt="CodeQL" />
+      <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&color=000000" alt="Snyk" />
+      <img src="https://img.shields.io/badge/Bandit-FDD835?style=for-the-badge&logo=python&color=000000" alt="Bandit" />
+  </div>
   <br>
 
   <h4>💻 Languages & Scripting</h4>
@@ -98,7 +120,7 @@ Holding the **OSWE (Offensive Security Web Expert)** and **TSE Certified Penetra
   <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
       <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" />
       <img src="https://img.shields.io/badge/BlackArch-1A1A1A?style=for-the-badge&logo=archlinux&color=000000" alt="BlackArch" />
-      <img src="https://img.shields.io/badge/Parrot_OS-2E8E8F?style=for-the-badge&logo=linux&color=000000" alt="Parrot OS" />
+      <img src="https://img.shields.io/badge/Parrot_OS-2E8E8F?style=for-the-badge&logo=parrotsecurity&color=000000" alt="Parrot OS" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&color=000000" alt="Docker" />
       <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&color=000000" alt="AWS" />
       <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&color=000000" alt="Azure" />
